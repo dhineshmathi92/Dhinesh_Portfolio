@@ -56,7 +56,7 @@ A machine learning model that predicts the category of a news article based on i
 
 ### Technology Stack
 - Natural Language Processing (NLP)
-- TfidfVectorizer
+- CountVectorizer
 - Scikit-learn
 - Flask
 - BeautifulSoup (optional for additional data scraping)
