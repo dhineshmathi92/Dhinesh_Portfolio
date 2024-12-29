@@ -13,7 +13,7 @@ A web-based application that provides personalized Tamil movie recommendations b
 - IMDb integration using BeautifulSoup
 
 ### GitHub Link
-[View Repository](https://github.com/your_github_profile/tamil-movie-recommender)
+[View Repository](https://github.com/dhineshmathi92/tamil_movie_recommendation)
 
 ---
 
@@ -30,7 +30,7 @@ An interactive application that allows users to query their PDF documents using 
 - Streamlit
 
 ### GitHub Link
-[View Repository](https://github.com/your_github_profile/pdf-interaction-tool)
+[View Repository](https://github.com/dhineshmathi92/PDF_InteractionTool)
 
 ---
 
@@ -45,7 +45,7 @@ A content-based recommendation system that suggests English movies based on user
 - IMDb integration using BeautifulSoup
 
 ### GitHub Link
-[View Repository](https://github.com/your_github_profile/english-movie-recommender)
+[View Repository](https://github.com/dhineshmathi92/movie_recommendation_system)
 
 ---
 
@@ -62,7 +62,7 @@ A machine learning model that predicts the category of a news article based on i
 - BeautifulSoup (optional for additional data scraping)
 
 ### GitHub Link
-[View Repository](https://github.com/your_github_profile/news-category-predictor)
+[View Repository](https://github.com/dhineshmathi92/news_category_prediction)
 
 ---
 
